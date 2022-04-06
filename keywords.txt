@@ -1,0 +1,15 @@
+RGBcrossfade	KEYWORD1
+fadeToBlack	KEYWORD2
+fadeToWhite	KEYWORD2
+fadeToWhiteLevel	KEYWORD2
+fadeToColor	KEYWORD2
+updateRGB	KEYWORD2
+r	KEYWORD2
+g	KEYWORD2
+b	KEYWORD2
+w	KEYWORD2
+begin	KEYWORD2
+color	KEYWORD2
+black	KEYWORD2
+white	KEYWORD2
+done	KEYWORD2
